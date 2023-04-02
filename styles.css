@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+
+.testimonial-section {
+	background-color: #f5f5f5;
+	padding: 50px;
+	justify-content: center;
+}
+
+.testimonial {
+	background-color: white;
+/* 	max-width: 500px; */
+/* 	text-align: center; */
+	border: 2px solid lightgray;
+	padding: 20px;
+/* 	margin: 20px; */
+}
+
+.quote {
+	
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+
+.author {
+	text-align: right;
+	font-style: italic;
+	font-size: 16px;
+}
